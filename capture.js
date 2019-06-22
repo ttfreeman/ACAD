@@ -1,0 +1,1 @@
+Acad.Application.activedocument.addPalette("Sample Palette","D:/DWG/capture.html");
